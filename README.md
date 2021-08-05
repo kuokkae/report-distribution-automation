@@ -1,11 +1,11 @@
 # report-distribution-automation
-requirement to distribute excel based reports that is refreshed daly using power query by the data analyst with restricted access to data
+if you pay someone to sit in front of their laptop everyday just to refresh your excel report that is connected to your database, you might want to read this
 
 # purpose:
-to create an automation flow to allow for highly mundane daily task
+to automate the mundane tasks of back-up, refresh, save file and copy daily
 
 # approach:
-Excel report are pre-built. The work is split into two phases
+Excel report are pre-built. The work is split into these phases
 1. Backing-up (powershell)
 2. Refreshing (powershell)
 3. Distribution (powershell)
